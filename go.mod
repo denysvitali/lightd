@@ -1,4 +1,4 @@
-module lightd
+module github.com/denysvitali/lightd
 
 go 1.23.0
 
