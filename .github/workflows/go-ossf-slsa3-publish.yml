@@ -16,6 +16,9 @@ on:
   workflow_dispatch:
   release:
     types: [created]
+  push:
+    branches:
+      - master
 
 permissions: read-all
 
